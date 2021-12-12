@@ -1,0 +1,2 @@
+File chứa ảnh quá lớn nên em không upload ở đây.
+Em xin phép để đường link đến google drive chứa file 78k ảnh crawl được: https://drive.google.com/drive/folders/1RBXS24t2zOY0n4M5ffLKU-mGL6_u4Y55?usp=sharing
