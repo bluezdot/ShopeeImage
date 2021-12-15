@@ -8,7 +8,7 @@ Run DownloadImageFromUrl to get all image (you need provide a folder path to sav
 
 Stage2: ShopeeImageClassification with very large labels and few products in each label
 - Step 1: EDA
-- Step 2: Preprocessing - Augmentation
+- Step 2: Preprocessing (Transform - Augmentation)
 - Step 3: Build Model
 - ... updating ...
 
